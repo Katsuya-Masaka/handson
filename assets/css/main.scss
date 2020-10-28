@@ -1,0 +1,10 @@
+.scss{
+  color: red;
+}
+
+.hide{
+  display: none;
+  &.seven{
+    display: block;
+  }
+}
